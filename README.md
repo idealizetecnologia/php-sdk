@@ -5,7 +5,7 @@ This is the official PHP SDK for MercadoLibre's Platform.
 ## How do I install it?
 
 ```bash
-$ composer require meli/meli
+$ composer require idealizetecnologia/meli
 $ composer dumpautoload -o // optional
 ```
 

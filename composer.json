@@ -6,7 +6,6 @@
         "Mercadolibre",
         "php sdk"
     ],
-    "license": "",
     "minimum-stability": "stable",
     "require": {},
     "require-dev": {
